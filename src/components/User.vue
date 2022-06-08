@@ -37,3 +37,13 @@ export default {
   },
 };
 </script>
+<style scoped>
+.table {
+  background: #d5e6e9;
+}
+table,
+th,
+td {
+  border: 1px solid;
+}
+</style>
